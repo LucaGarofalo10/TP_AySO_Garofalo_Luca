@@ -1,0 +1,157 @@
+ls
+rm -r clase4
+ls -l
+pwd
+whoami
+man
+man man
+man pwd
+ls -la
+cd .ssh
+ls -la
+cd . .
+cd ..
+cd repogiy
+cd repogit
+cd ..
+cat /etc/group
+ls -l
+cat /etc/group | more
+cat README
+sude cat README
+sudo cat README
+mkdir clase4
+cd clase4
+cat > archivo1.txt
+ls -ls
+cat archivo1.txt
+cat << FIN >archivo2.txt
+linea4
+linea5
+linea6
+FIN
+
+ls -l
+halt
+whoami
+useradd -m -s /bin/bash -c "esto es un comentario" LucaGarofalo
+sudo useradd -m -s /bin/bash -c "esto es un comentario" LucaGarofalo
+ls -l /home
+sudo passwd LucaGarofalo
+su LucaGarofalo
+su - LucaGarofalo
+vagrant halt
+halt
+vagrant halt
+sudo vagrant halt
+vagrant halt
+exit
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+exit
+cat $HOME/.ssh/*.pub
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -l $HOME/.ssh
+cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub 
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -la
+pwd
+cat $HOME/.ssh/[Enter].pub
+cat $HOME/.ssh/*.pub
+exit
+ssh-keygen -t ed25519
+ls -la
+ls -l .ssh/
+ls -la .ssh/
+ssh-keygen -t ed25519
+ls -l .ssh/
+cat $HOME/.ssh/*.pub
+mkdir repogit
+cd repogit
+cd
+cd repogit
+git clone git@github.com:LucaGarofalo10/TP_AySO_Garofalo_Luca.git
+cd TP_AySO_Garofalo_Luca/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+man grep
+grep --ignore-case Home_url /etc/os-release
+grep --ignore-case Home_url /etc/os-release >
+datos_url.txtgrep --ignore0case Home_url /etc/os-release > datos_url.txt
+grep --ignore0case Home_url /etc/os-relea
+se > datos_url.txt
+grep --ignore-case Home_url /etc/os-release > datos_url.txt
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+echo “LucaGarofalo=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "TU-email"
+git config --global user.name "Tu-
+
+
+cd
+exit
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+git config --global user.email "Lucagarouta@gmail.com"
+git config --global user.name "LucaGarofalo10"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+
+git commit
+git commit -m
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep
+grep -i datos_usuarios.txt
+tail -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git push
+ls -l
+cat <<EOF >> README.md
+Alumno: <Luca Garofalo>
+Division: <211>
+Turno: <Tarde>
+EOF 
+
+cat <<EOF >> README.md
+Alumno: <Luca Garofalo>
+Division: <211>
+Turno: <Tarde>
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir
+mkdir --help
+cd
+pwd
+mkdir -p materia{1..2}/{uni1,uni2,uni3}
+ls -l
+ls -l materia1
+pwd
+mkdir script_dir.sh
+chmod +x script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+pwd
+cd repogit
+cd TP_AySO_Garofalo_Luca
+mkdir script_dir.sh
+chmod +x script_dir,sh
+chmod +x script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
